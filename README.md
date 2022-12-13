@@ -16,7 +16,7 @@ The program uses data from a CSV file with words from English to French translat
 - Python Packages:
   - tkinter (GUI interface)
   - random
-  - pyperclip
+  - pandas
   - JSON
 - IDE:
   - PyCharm
