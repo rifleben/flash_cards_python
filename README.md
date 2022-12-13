@@ -4,7 +4,7 @@ Flashcard program that uses CSV data. Once you click the "check", that data is r
 
 
 
-![](https://github.com/rifleben/myPass_gif/blob/main/myPass.gif)
+![](https://github.com/rifleben/flash_cards_python/blob/main/images/flash_card.gif)
 
 
 ## Summary:
