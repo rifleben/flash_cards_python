@@ -17,6 +17,6 @@ The program uses data from a CSV file with words from English to French translat
   - tkinter (GUI interface)
   - random
   - pandas
-  - JSON
+  - CSV
 - IDE:
   - PyCharm
